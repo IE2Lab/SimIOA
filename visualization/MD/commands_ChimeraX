@@ -1,0 +1,5 @@
+# Commands to change visualization settings
+
+```
+style :831@O7 ball # change style of residue number 831 and atom O7 (both of which can be found by hovering over the atom under consideration) to ball (other option: stick)
+```
